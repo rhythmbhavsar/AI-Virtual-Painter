@@ -1,4 +1,4 @@
-"""This is the Hand Tracking Module"""
+"""This is the Hand Tracking Module. """
 
 import cv2
 import mediapipe as mp
